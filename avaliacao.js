@@ -30,3 +30,4 @@ const catalogo = [
     console.log(titulos);
 }
 gerarRelatorioDeFilmes(2000)
+  
